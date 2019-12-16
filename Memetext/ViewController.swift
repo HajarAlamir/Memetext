@@ -97,7 +97,6 @@ class MemeEditorViewController: UIViewController ,UIImagePickerControllerDelegat
         dismiss(animated: true, completion: nil)
     }
     
-   
     
     //MARK: image Picker Cancel
     func imagePickerControllerDidCancel(_: UIImagePickerController) {
